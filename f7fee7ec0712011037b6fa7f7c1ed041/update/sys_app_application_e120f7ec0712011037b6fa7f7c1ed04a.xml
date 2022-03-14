@@ -4,7 +4,7 @@
         <category display_value="">Custom Applications</category>
         <description>Personal wish list application</description>
         <device_type>browser</device_type>
-        <hint>Personal wish list application 1</hint>
+        <hint>Personal wish list application</hint>
         <name/>
         <order/>
         <roles>x_791381_wish_list.user</roles>
@@ -14,7 +14,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e120f7ec0712011037b6fa7f7c1ed04a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Wish List</sys_name>
         <sys_overrides/>
         <sys_package display_value="Wish List" source="x_791381_wish_list">f7fee7ec0712011037b6fa7f7c1ed041</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="Wish List">f7fee7ec0712011037b6fa7f7c1ed041</sys_scope>
         <sys_update_name>sys_app_application_e120f7ec0712011037b6fa7f7c1ed04a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-03-14 23:11:24</sys_updated_on>
+        <sys_updated_on>2022-03-14 23:16:53</sys_updated_on>
         <title>Wish List</title>
         <view_name/>
     </sys_app_application>
